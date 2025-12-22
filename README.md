@@ -7,7 +7,7 @@ The work here focuses on **clean structure, basic styling, and understanding cor
 
 ## Purpose of This Repository
 
-- Practice **HTML5 structure and semantic elements**
+- Practice **HTML structure and semantic elements**
 - Learn **CSS fundamentals**, including text styling, buttons, and simple layouts
 - Understand **project organization and file linking**
 - Develop consistency and clarity in writing front-end code
